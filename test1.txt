@@ -1,1 +1,2 @@
-First string
+First string.
+Second string.
