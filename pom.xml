@@ -8,5 +8,6 @@
   <description>Test one project</description>
   <modules>
   	<module>test1_2</module>
+  	<module>hibernate-test</module>
   </modules>
 </project>
